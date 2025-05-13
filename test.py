@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import openai
 
 # ✅ CONFIGURATION
