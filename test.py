@@ -39,3 +39,4 @@ def run_chatbot():
 # Point d’entrée
 if __name__ == "__main__":
     run_chatbot()
+hello
